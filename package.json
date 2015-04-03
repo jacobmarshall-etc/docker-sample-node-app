@@ -1,0 +1,7 @@
+{
+  "name": "docker-sample-node-app",
+  "private": true,
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
